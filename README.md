@@ -14,7 +14,7 @@ I'm looking forward to implement some spare cool features.
 
 Credits:
 
-Thanks to emukidid, megalomaniac meneerbeer and everyone who worked on the offical XenoGC Fork
+Thanks to emukidid, megalomaniac, meneerbeer and everyone who worked on the offical XenoGC Fork
 
 Thanks to AndreaCampanella for the initial Port to XenoGC328
 
