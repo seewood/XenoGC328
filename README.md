@@ -13,7 +13,7 @@ This is my version, should run on every Atmega328/Arduino around (ATTENTION! THI
 I'm looking forward to implement some spare cool features.
 
 # Soldering Diagram:
-https://user-images.githubusercontent.com/33197691/75434887-844c3a80-5952-11ea-8736-1ee844d0c3ce.png
+![image](https://user-images.githubusercontent.com/33197691/75434887-844c3a80-5952-11ea-8736-1ee844d0c3ce.png)
 
 ## Credits:
 
