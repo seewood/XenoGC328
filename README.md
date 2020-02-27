@@ -8,13 +8,12 @@ http://www.gc-forever.com/forums/viewtopic.php?t=439
 
 This version run on an ATmega8L, not a lot of ports are been made, mostly because you don't really need them, the Atmega8L is cheap and still in production. Someone made a Raspberry Pi port of it.
 
-This is my version, should run on every Atmega328/Arduino around (ATTENTION! THIS NEED TO BE FLASHED VIA ISP ON THE ARDUINO).
-
 I'm looking forward to implement some spare cool features.
 
 # Atmega328
 * For now it is only tested on a Arduino Pro Mini with Atmega328 / 5V@16MHZ
 * it should work on every Atmega328, but its no testet!
+* Chip needs to be flashed via ISP!
 
 # Soldering Diagram:
 **You only need one Color wiring up to the Mainboard. The other Points are alternativ solder Points**
