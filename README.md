@@ -12,7 +12,7 @@ This is my version, should run on every Atmega328/Arduino around (ATTENTION! THI
 
 I'm looking forward to implement some spare cool features.
 
-#Atmega328
+# Atmega328
 * For now it is only tested on a Arduino Pro Mini with Atmega328 / 5V@16MHZ
 * it should work on every Atmega328, but its no testet!
 
