@@ -1,4 +1,4 @@
-XenoGC is a modchip for the Nintendo Gamecube. 
+# XenoGC is a modchip for the Nintendo Gamecube. 
 
 The idea is a micro sitting on the communication bus between the cpu and the dvd driver board injecting code to patch the dvd controller to make it able to read unsigned code.
 
@@ -12,10 +12,11 @@ This is my version, should run on every Atmega328/Arduino around (ATTENTION! THI
 
 I'm looking forward to implement some spare cool features.
 
-Credits:
+# Soldering Diagram:
+https://user-images.githubusercontent.com/33197691/75434887-844c3a80-5952-11ea-8736-1ee844d0c3ce.png
+
+## Credits:
 
 Thanks to emukidid, megalomaniac, meneerbeer and everyone who worked on the offical XenoGC Fork
-
 Thanks to AndreaCampanella for the initial Port to XenoGC328
-
 Thanks to rama for finishing the Port and making it working on the Atmega328. He is like a mentor to me on the project
