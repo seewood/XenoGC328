@@ -12,7 +12,12 @@ This is my version, should run on every Atmega328/Arduino around (ATTENTION! THI
 
 I'm looking forward to implement some spare cool features.
 
+#Atmega328
+* For now it is only tested on a Arduino Pro Mini with Atmega328 / 5V@16MHZ
+* it should work on every Atmega328, but its no testet!
+
 # Soldering Diagram:
+You only need one Color wiring up to the Mainboard. The other Points are alternativ solder Points
 ![image](https://user-images.githubusercontent.com/33197691/75434887-844c3a80-5952-11ea-8736-1ee844d0c3ce.png)
 
 ## Credits:
