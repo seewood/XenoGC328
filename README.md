@@ -10,15 +10,15 @@ This version run on an ATmega8L, not a lot of ports are been made, mostly becaus
 
 I'm looking forward to implement some spare cool features.
 
-# Atmega328:
+## Atmega328:
 * For now it is only tested on a Arduino Pro Mini with Atmega328 / 5V@16MHZ
 * it should work on every Atmega328, but its no tested yet!
 * Chip needs to be flashed via ISP!
 
-# Soldering Diagram:
+## Soldering Diagram:
 **You only need one Color wiring up to the Mainboard. The other Points are alternativ solder Points**
 
-![Diagramm_final_Xeno328](https://user-images.githubusercontent.com/33197691/75441025-2ec95b00-595d-11ea-850d-fb022cc918fa.png)
+![Diagramm_final_Xeno328](https://user-images.githubusercontent.com/33197691/75441155-6df7ac00-595d-11ea-9ed8-e002d5018dd5.png)
 
 ## Credits:
 
