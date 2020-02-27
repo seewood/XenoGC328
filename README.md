@@ -12,7 +12,7 @@ I'm looking forward to implement some spare cool features.
 
 # Atmega328
 * For now it is only tested on a Arduino Pro Mini with Atmega328 / 5V@16MHZ
-* it should work on every Atmega328, but its no testet!
+* it should work on every Atmega328, but its no tested yet!
 * Chip needs to be flashed via ISP!
 
 # Soldering Diagram:
