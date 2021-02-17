@@ -18,7 +18,7 @@ I'm looking forward to implement some spare cool features.
 ## Soldering Diagram:
 **You only need one Color wiring up to the Mainboard. The other Points are alternativ solder Points**
 
-![Diagramm_final_Xeno328](https://user-images.githubusercontent.com/33197691/75441155-6df7ac00-595d-11ea-9ed8-e002d5018dd5.png)
+![Diagramm_final_Xeno328](https://user-images.githubusercontent.com/33197691/108183796-c265df80-710a-11eb-939c-ab913c08e98f.png)
 
 ## Credits:
 
